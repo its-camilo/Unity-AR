@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4698734691344443249
+  m_GuidHigh: 786290769540540038
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5390205078754799031
+      m_GuidHigh: 14273234544913950647
+    m_SerializedTextureGuid:
+      m_GuidLow: 4977694518024249148
+      m_GuidHigh: 14791839835655393466
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: SpawnImage
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4879870591811025802
+      m_GuidHigh: 9224193478204891049
+    m_SerializedTextureGuid:
+      m_GuidLow: 16704993522434362574
+      m_GuidHigh: 426318407018063240
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: SoldierImage
+    m_Texture: {fileID: 0}

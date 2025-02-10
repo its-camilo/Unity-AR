@@ -1,0 +1,1 @@
+C:\Users\camil\OneDrive\Documentos\GitHub\Unity AR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\i1e4t2nb\obj\armeabi-v7a
